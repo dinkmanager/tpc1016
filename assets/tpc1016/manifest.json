@@ -1,0 +1,21 @@
+{
+  "short_name": "Dink",
+  "name": "The Pickle & Co 1016",
+  "icons": [
+    {
+      "src": "assets/tpc1016/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/tpc1016/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1E3A8A",
+  "background_color": "#ffffff"
+}
+
