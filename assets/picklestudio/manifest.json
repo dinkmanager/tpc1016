@@ -1,6 +1,6 @@
 {
-  "short_name": "Dink",
-  "name": "The Pickle & Co 1016",
+  "short_name": "Pickle Studio",
+  "name": "Pickle Studio",
   "icons": [
     {
       "src": "./logo192.png",
@@ -15,6 +15,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1E3A8A",
-  "background_color": "#ffffff"
+  "theme_color": "#3A4D39",
+  "background_color": "#FFFBF2"
 }
